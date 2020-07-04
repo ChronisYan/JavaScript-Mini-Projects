@@ -2,7 +2,7 @@
 
 > Various small to medium size JS projects
 
-Visit the website [Here](http://javascriptprojects.club/)
+Visit the website [Here](https://javascriptprojects.club/)
 
 ### Projects: 
 
